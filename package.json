@@ -21,6 +21,7 @@
   "homepage": "https://github.com/myx0m0p/StakePostContracts#readme",
   "dependencies": {},
   "devDependencies": {
+    "@openzeppelin/contracts": "^3.3.0",
     "@openzeppelin/contracts-upgradeable": "^3.3.0",
     "@openzeppelin/test-environment": "^0.1.9",
     "@openzeppelin/test-helpers": "^0.5.10",
